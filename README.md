@@ -29,4 +29,4 @@ To get started with this course:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cloud-native-modern-python-batch63.git
+   git clone https://github.com/Dev-Aaminah/cloud-native-modern-python-batch63.git
